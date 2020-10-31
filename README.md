@@ -1,6 +1,6 @@
 # Page ID Opener
 
-A Chromium-based extension for opening URL in new tab via ID
+A Chromium-based browser extension for opening URL in new tab via ID
 
 **This project is still on development**
 
